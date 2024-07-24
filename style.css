@@ -1,0 +1,53 @@
+.headline{
+    display: flex;  
+    justify-content: center;
+    align-items: center;
+    font-size: 28px;
+    text-decoration: underline;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+img{
+    width: 400px;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main-text{
+    font-size: 18px;
+}
+
+p.idea{
+    font-size: 22px;
+    color: rgb(135, 67, 199);
+}
+
+span.idea{
+    font-size: 22px;
+    color: blueviolet;
+}
+
+.subheader{
+    font-size: 20px;
+    color: rgb(4, 116, 185);
+    display: flex;
+    justify-content: center;
+}
+
+a{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(202, 88, 88);
+    width: 150px;
+    height: 30px;
+    border-radius: 10px;
+    text-decoration: none;
+    align-items: center;
+}
+
+.panda{
+    display: flex;
+    justify-content: center;
+}
